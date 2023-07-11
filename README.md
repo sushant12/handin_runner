@@ -1,5 +1,11 @@
 # HandinRunner
+## **What is HandinRunner?**
+Handin Runner is an application that works with Handin to run student's untrusted code in a container.
 
+## **Environment Setup**
+Install the elixir and erlang by running `asdf install` in root folder.
+
+**Start your Phoenix server**
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
@@ -16,3 +22,4 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
